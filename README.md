@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+I'm a Front-end developer, who loves to code.
 
 📚 I’m currently learning ReactJS,NodeJS, MongoDB.
 
