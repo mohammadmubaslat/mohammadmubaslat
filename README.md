@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 
 📚 I’m currently learning ReactJS,NodeJS, MongoDB.
+
 👯 I’m looking to collaborate with other passionate developers.
+
 🥅 2022 Goals: Contribute to Open Source projects.
