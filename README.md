@@ -1,7 +1,11 @@
  Hi there, I'm Mohammad 👋
 
+
+I'm a Front-end developer, who loves to code.
+
 <!--
 **mohammadmubaslat/mohammadmubaslat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -15,10 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Front-end developer, who loves to code.
+- 📚 I’m currently learning ReactJS,NodeJS, MongoDB.
 
+- 👯 I’m looking to collaborate with other passionate developers.
+
+- 🥅 2022 Goals: Contribute to Open Source projects.
+
+<!-- 
 📚 I’m currently learning ReactJS,NodeJS, MongoDB.
 
 👯 I’m looking to collaborate with other passionate developers.
 
 🥅 2022 Goals: Contribute to Open Source projects.
+ -->
