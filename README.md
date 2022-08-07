@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad.</h1>
-<h3 align="center">I'm a Front-end developer, who loves to code.</h3>
+<h3 align="center">I'm a Flutter developer, who loves to code.</h3>
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **NodeJS.**
 
 - 👯 I’m looking to collaborate **with other passionate developers.**
 
