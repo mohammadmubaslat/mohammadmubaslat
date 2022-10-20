@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmubaslat)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammadmubaslat&theme=juicyfresh&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammadmubaslat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Github Stats  
