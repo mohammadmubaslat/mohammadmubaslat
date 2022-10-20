@@ -23,7 +23,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammadmubaslat&theme=juicyfresh&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammadmubaslat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
