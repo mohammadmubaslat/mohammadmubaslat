@@ -20,6 +20,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmubaslat)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammadmubaslat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammadmubaslat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
