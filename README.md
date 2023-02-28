@@ -1,9 +1,9 @@
 
  
 <h1 align="center">Hi 👋, I'm Mohammad.</h1>
-<h3 align="center">I'm developer, who loves to code.</h3>
+<h3 align="center">I'm a Data Engineer</h3>
 
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate **with other passionate developers.**
 
